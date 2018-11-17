@@ -1,0 +1,15 @@
+c:\users\tridip\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\bin\Debug\EFConnectLocalDB.exe.config
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\bin\Debug\App_Data\Database1.mdf
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\bin\Debug\App_Data\Database1_log.ldf
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\bin\Debug\EFConnectLocalDB.exe
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\bin\Debug\EFConnectLocalDB.pdb
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\bin\Debug\EntityFramework.dll
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\bin\Debug\EntityFramework.xml
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\obj\Debug\EFConnectLocalDB.csprojResolveAssemblyReference.cache
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\obj\Debug\EFConnectLocalDB.Form1.resources
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\obj\Debug\EFConnectLocalDB.Properties.Resources.resources
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\obj\Debug\EFConnectLocalDB.csproj.GenerateResource.Cache
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\obj\Debug\EFConnectLocalDB.exe
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\obj\Debug\EFConnectLocalDB.pdb
