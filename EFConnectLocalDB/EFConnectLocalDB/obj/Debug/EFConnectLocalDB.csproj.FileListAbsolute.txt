@@ -7,7 +7,6 @@ C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnect
 C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\bin\Debug\EntityFramework.xml
 C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\obj\Debug\EFConnectLocalDB.csprojResolveAssemblyReference.cache
 C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\obj\Debug\EFConnectLocalDB.Form1.resources
 C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\obj\Debug\EFConnectLocalDB.Properties.Resources.resources
 C:\Users\TRIDIP\documents\visual studio 2013\Projects\EFConnectLocalDB\EFConnectLocalDB\obj\Debug\EFConnectLocalDB.csproj.GenerateResource.Cache

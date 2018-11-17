@@ -35,6 +35,19 @@ namespace EFConnectLocalDB
             EmployeeDB db = new EmployeeDB();
             var data = db.Employees.ToList();
 
+
+
+            /* good way to find parent directory*/
+            //string dataDir = AppDomain.CurrentDomain.BaseDirectory;
+            //if (dataDir.EndsWith(@"\bin\Debug\")
+            //   || dataDir.EndsWith(@"\bin\Release\"))
+            //{
+            //    dataDir = System.IO.Directory.GetParent(dataDir).Parent.Parent.FullName;
+            //    AppDomain.CurrentDomain.SetData("DataDirectory", dataDir);
+            //}
+            
+            
+
         }
     }
 }
